@@ -1,0 +1,43 @@
+body {
+    background-color:greenyellow;
+}
+
+#score{
+    float:left;
+    margin-left:30px;
+    font-size:xx-large;
+    font-weight:bold;
+}
+
+#timer{
+    float:right;
+    margin-right:100px;
+    font-size:xx-large;
+    font-weight:bold;
+}
+
+#goal{
+    font-weight:bold;
+    font-size:x-large;
+    color:red;
+}
+
+#label {
+    font-size:large;
+    font-weight:600;
+}
+
+#confidence {
+    font-size:large;
+    font-weight:600;
+}
+
+h1{
+    color:rgb(38, 0, 255);
+    background-color:cornsilk;
+    
+ }
+
+#show_sketch {
+    float:right;
+ }
